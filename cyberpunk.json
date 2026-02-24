@@ -3,14 +3,14 @@
     "is_dark": true,
     "colors": {
         "accent-color": "#bc13fe",
-        "accent": "#4BF0FC",
+        "accent": "#4bf0fc",
         "primary-color": "#bc13fe",
         "warning-color": "#b39554",
         "alert": "#b39554",
 
         "sidebar-color": "#011627",
         "roomlist-background-color": "#011627",
-        "roomlist-text-color": "#4BF0FC",
+        "roomlist-text-color": "#4bf0fc",
         "roomlist-text-secondary-color": "#5f7e97",
         "roomlist-highlights-color": "#1085bb5d",
         "roomlist-separator-color": "#5f7e97",
@@ -19,7 +19,7 @@
         "timeline-text-color": "#5f7e97",
         "secondary-content": "#5f7e97",
         "tertiary-content": "#5f7e97",
-        "timeline-text-secondary-color": "#4BF0FC",
+        "timeline-text-secondary-color": "#4bf0fc",
         "timeline-highlights-color": "#5F7E9779",
 
         "reaction-row-button-selected-bg-color": "#7e57c25a",
